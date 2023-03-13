@@ -1,3 +1,5 @@
+<?php
+
 /*
  * Function for post duplication. Dups appear as drafts. User is redirected to the edit screen
  */
